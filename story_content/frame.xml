@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Resident Assistant Cultural Awareness Training" />
+              <option name="title_text" value="RATraining_v2" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1586,40 +1586,40 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5ak4M4GA5TC" displaytext="RA Onboarding Training" expand="true" type="slide">
+        <slidelink slideid="_player.5ak4M4GA5TC" displaytext="RA Onboarding Training" expand="true" type="slide" translationId="5cKE3gImk6b">
           <links>
-            <slidelink slideid="_player.5ak4M4GA5TC.618HGH0LGIA" displaytext="Cultural Sensitivity in Action " expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.5eHg4MqJqU2" displaytext="Welcome" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.5udZe2VbWPy" displaytext="Before we get started…" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6qnPVCuz6eT" displaytext="Residence hall lounge 1" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6hTabfsdLFL" displaytext="Residence hall lounge 2" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.678ld3lT3gi" displaytext="S3 Hallway 2" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6IGXOlVPRr5" displaytext="S1 What would you do" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6rVn4fCIgT4" displaytext="S3 What would you do" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6dm1nebA6m6" displaytext="Meet Taylor" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6YpEc9zSi4e" displaytext="S1 Let’s Reflect (A)" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.5bjRgOZJ5Jx" displaytext="S2 Let’s Reflect (A)" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6nKe6PaVd0U" displaytext="S2 Let’s Reflect (C)" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6pgS6S8x1Cz" displaytext="S2 Let’s Reflect (B)" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.5s5quwGrMOZ" displaytext="S1 Let’s Reflect (B)" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.5nX83bdcI9P" displaytext="S1 Let’s Reflect (C)" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.5UnewmSC0CB" displaytext="S3 Let’s Reflect (A)" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6AuygBtan0i" displaytext="S3 Let’s Reflect (C)" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.5pp9FunTW1d" displaytext="S3 Let’s Reflect (B)" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.5eb5C60XQpo" displaytext="S1 Taylor’s Notes" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6V2ZLLBY6oD" displaytext="S3 Taylor’s Notes" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6HxauN6hP9N" displaytext="S2 Taylor’s Notes" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6jx88vPnLaE" displaytext="1 Activity Night" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6FUEKqhYtKP" displaytext="2 Activity Night" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6feRkHPDd39" displaytext="S2 What would you do" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.65f6phC16Tv" displaytext="S3 Hallway 1" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6ZYp4fffrwV" displaytext="The End of the Tour" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6YvvzdCMrcC" displaytext="YellowCard" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6Qzd07B3Zh5" displaytext="Pinkcard" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6MGyLboYImq" displaytext="Bluecard" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.6Z5zfMBZHFf" displaytext="Drag and Drop" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.5cRcbBVLifF" displaytext="Before we part ways…" expand="false" type="slide" />
-            <slidelink slideid="_player.5ak4M4GA5TC.5mNj5DsDx05" displaytext="Name" expand="false" type="slide" />
+            <slidelink slideid="_player.5ak4M4GA5TC.618HGH0LGIA" displaytext="Cultural Sensitivity in Action " expand="false" type="slide" translationId="5mLsjlqJqa1" />
+            <slidelink slideid="_player.5ak4M4GA5TC.5eHg4MqJqU2" displaytext="Welcome" expand="false" type="slide" translationId="6FmCiQNYHZl" />
+            <slidelink slideid="_player.5ak4M4GA5TC.5udZe2VbWPy" displaytext="Before we get started…" expand="false" type="slide" translationId="6ibWfGA6t8G" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6qnPVCuz6eT" displaytext="Residence hall lounge 1" expand="false" type="slide" translationId="6cWDQoWLhWj" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6hTabfsdLFL" displaytext="Residence hall lounge 2" expand="false" type="slide" translationId="6T8TQQYX0F9" />
+            <slidelink slideid="_player.5ak4M4GA5TC.678ld3lT3gi" displaytext="S3 Hallway 2" expand="false" type="slide" translationId="63ZRSBlLfc5" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6IGXOlVPRr5" displaytext="S1 What would you do" expand="false" type="slide" translationId="6kkvL4mebEt" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6rVn4fCIgT4" displaytext="S3 What would you do" expand="false" type="slide" translationId="5caC8PqPjoS" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6dm1nebA6m6" displaytext="Meet Taylor" expand="false" type="slide" translationId="6Caypnp1Tds" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6YpEc9zSi4e" displaytext="S1 Let’s Reflect (A)" expand="false" type="slide" translationId="6CmnqPmO9tL" />
+            <slidelink slideid="_player.5ak4M4GA5TC.5bjRgOZJ5Jx" displaytext="S2 Let’s Reflect (A)" expand="false" type="slide" translationId="5bdpwJnLHeG" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6nKe6PaVd0U" displaytext="S2 Let’s Reflect (C)" expand="false" type="slide" translationId="5wMyfli6P8M" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6pgS6S8x1Cz" displaytext="S2 Let’s Reflect (B)" expand="false" type="slide" translationId="6VmAvHeZCX8" />
+            <slidelink slideid="_player.5ak4M4GA5TC.5s5quwGrMOZ" displaytext="S1 Let’s Reflect (B)" expand="false" type="slide" translationId="6OWUyD8yn8F" />
+            <slidelink slideid="_player.5ak4M4GA5TC.5nX83bdcI9P" displaytext="S1 Let’s Reflect (C)" expand="false" type="slide" translationId="6HvSoHHAlRw" />
+            <slidelink slideid="_player.5ak4M4GA5TC.5UnewmSC0CB" displaytext="S3 Let’s Reflect (A)" expand="false" type="slide" translationId="67NTXsgCoSO" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6AuygBtan0i" displaytext="S3 Let’s Reflect (C)" expand="false" type="slide" translationId="6HCLKHsembz" />
+            <slidelink slideid="_player.5ak4M4GA5TC.5pp9FunTW1d" displaytext="S3 Let’s Reflect (B)" expand="false" type="slide" translationId="6B7gWhp8VHK" />
+            <slidelink slideid="_player.5ak4M4GA5TC.5eb5C60XQpo" displaytext="S1 Taylor’s Notes" expand="false" type="slide" translationId="6PgTK2ppCcl" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6V2ZLLBY6oD" displaytext="S3 Taylor’s Notes" expand="false" type="slide" translationId="5aA8LDDtv5P" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6HxauN6hP9N" displaytext="S2 Taylor’s Notes" expand="false" type="slide" translationId="6i7PJjZrP35" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6jx88vPnLaE" displaytext="1 Activity Night" expand="false" type="slide" translationId="6D5rAcHA7kE" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6FUEKqhYtKP" displaytext="2 Activity Night" expand="false" type="slide" translationId="5uEjfHIWBZL" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6feRkHPDd39" displaytext="S2 What would you do" expand="false" type="slide" translationId="5pZNvehyTpz" />
+            <slidelink slideid="_player.5ak4M4GA5TC.65f6phC16Tv" displaytext="S3 Hallway 1" expand="false" type="slide" translationId="6QoIQFZCQhC" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6ZYp4fffrwV" displaytext="The End of the Tour" expand="false" type="slide" translationId="64ZDKENsvnr" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6YvvzdCMrcC" displaytext="YellowCard" expand="false" type="slide" translationId="5fxpIJnqSKd" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6Qzd07B3Zh5" displaytext="Pinkcard" expand="false" type="slide" translationId="6efmcaXuVdb" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6MGyLboYImq" displaytext="Bluecard" expand="false" type="slide" translationId="6Xk2RmD2rJy" />
+            <slidelink slideid="_player.5ak4M4GA5TC.6Z5zfMBZHFf" displaytext="Drag and Drop" expand="false" type="slide" translationId="5sGENVsbKAh" />
+            <slidelink slideid="_player.5ak4M4GA5TC.5cRcbBVLifF" displaytext="Before we part ways…" expand="false" type="slide" translationId="6Bw7PU4hJLc" />
+            <slidelink slideid="_player.5ak4M4GA5TC.5mNj5DsDx05" displaytext="Name" expand="false" type="slide" translationId="6cHGxR7UtyO" />
           </links>
         </slidelink>
       </links>
